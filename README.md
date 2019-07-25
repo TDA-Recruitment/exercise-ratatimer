@@ -3,7 +3,7 @@
 This is a frontend exercise using React.js to build a small timer app (we called it Rat-a-Timer - just for fun!)
 Ideally it should look like the design:
 
-![design](https://raw.githubusercontent.com/tda-soft/react-home-exercise/master/design.png)
+![design](https://raw.githubusercontent.com/tda-soft/react-ratatimer-exercise/master/design.png)
 
 ## Objective
 1. There big timer number will show the timer running (when started) in three groups of time: minutes, seconds & milliseconds.
